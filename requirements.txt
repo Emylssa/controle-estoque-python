@@ -1,0 +1,3 @@
+# Bibliotecas padrão do Python utilizadas no projeto
+# tkinter geralmente já vem com a instalação padrão do Python
+# sqlite3, hashlib e pathlib também fazem parte da biblioteca padrão
